@@ -8,3 +8,5 @@ pull request 对被克隆这发出merge请求
 Remote Repository, fetch/clone, push
 Remote Workspace, pull,
 Repository Index Workspace, checkout add commit
+
+https://guides.github.com/activities/forking/
