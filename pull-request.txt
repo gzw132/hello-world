@@ -1,0 +1,10 @@
+fork  拷贝giuhub成员仓库到自己帐号远程仓库
+fetch 和fork类似
+clone 克隆自己github上的远程仓库到本地仓库
+pull  克隆自己github上的远程仓库到工作区
+push  推送本地仓库到远程仓库
+pull request 对被克隆这发出merge请求
+
+Remote Repository, fetch/clone, push
+Remote Workspace, pull,
+Repository Index Workspace, checkout add commit
